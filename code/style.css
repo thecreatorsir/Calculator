@@ -1,0 +1,36 @@
+.container {
+  text-align: center;
+}
+.wrapper {
+  display: inline-block;
+  background-color: darkorange;
+  padding: 10px;
+  border-radius: 31px;
+  border: 2px solid darkseagreen;
+  width: 382px;
+  height: 415px;
+}
+.heading {
+  margin: 4%;
+}
+table {
+  margin: auto;
+}
+
+input {
+  width: 335px;
+  height: 42px;
+  padding: 5px;
+  border-radius: 12px;
+  outline: none;
+  font-size: 30px;
+}
+
+button {
+  font-size: 22px;
+  width: 84px;
+  height: 46px;
+  border-radius: 12px;
+  background-color: yellow;
+  outline: none;
+}
